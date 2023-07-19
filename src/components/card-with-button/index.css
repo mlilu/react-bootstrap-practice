@@ -1,3 +1,11 @@
 .card-title {
   color: purple;
 }
+.btn {
+  background-color: purple;
+  border: 0;
+}
+
+.card {
+  margin-bottom: 10px;
+}

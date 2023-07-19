@@ -21,21 +21,17 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a
-                className="nav-link active"
-                aria-current="page"
-                href="../../pages/home.js"
-              >
+              <a className="nav-link active" aria-current="page" href="/home">
                 Home
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="../../pages/about.js">
+              <a className="nav-link" href="/about">
                 About
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="../../pages/contact.js">
+              <a className="nav-link" href="/contact">
                 Contact
               </a>
             </li>
