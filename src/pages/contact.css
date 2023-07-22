@@ -1,13 +1,7 @@
-.card-title {
-  color: purple;
-}
 .btn {
   background-color: purple;
   border: 0;
 }
 .btn:hover {
   background-color: rgb(227, 88, 220);
-}
-.card {
-  margin-bottom: 10px;
 }

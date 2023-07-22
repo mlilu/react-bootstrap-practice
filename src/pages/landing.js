@@ -19,6 +19,15 @@ const LandingPage = () => {
           <div className="col-sm-12">
             <CardWithButton />
           </div>
+          <div className="col-sm-4">
+            <CardWithButton />
+          </div>
+          <div className="col-sm-4">
+            <CardWithButton />
+          </div>
+          <div className="col-sm-4">
+            <CardWithButton />
+          </div>
         </div>
       </div>
     </div>
